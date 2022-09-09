@@ -3,10 +3,9 @@ layout: default
 title: "NoName Blog"
 ---
 
+# Simple and privacy-friendly MailChimp alternative
 
-# Welcome to Markdown
-
-## Explanation
+### Explanation
 
 In this post we will show what *Parsedown* generates out of this **markdown** snippet.
 We will show what the resulting `HTML` looks like. We will look at:
