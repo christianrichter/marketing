@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "NoName Blog"
+title: "ReachMe - Email that delivers"
 ---
 
 # Simple and privacy-friendly MailChimp alternative

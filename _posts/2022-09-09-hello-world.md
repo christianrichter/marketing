@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Hello World"
+title: "SPF - Sender Policy Framework"
 ---
 
-# Welcome
+# Sender Policy Framework - What is it and how does it work
 
 **Hello world**, this is my first Jekyll blog post.
 

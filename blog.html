@@ -2,12 +2,12 @@
 layout: default
 title: "Blog"
 ---
-<h2>The Email Delivery Blog</h2>
-
+<h1>The Email Delivery Blog</h1>
+    <hr>
 <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
